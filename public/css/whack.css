@@ -1,0 +1,47 @@
+body {
+    /*background-image: url("/img/Codeup-logo.png");*/
+}
+.active {
+    background-color: red;
+}
+
+.title {
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
+.info {
+
+}
+.gameboard {
+    width: 600px;
+    height: 600px;
+    border-color: solid black;
+    border-width: 2px;
+    margin: 25%;
+    position: absolute;
+
+}
+.tile {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 1px solid black;
+    margin: 0;
+    position: relative;
+}
+.start {
+    width: 60px;
+    height: 20px;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    margin: 23%;
+    float: left;
+}
+.reset {
+
+}
+.timer {
+
+}
